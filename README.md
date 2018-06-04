@@ -13,15 +13,16 @@ Shopify Teescape t-shirt auto uploader is a C# application tool allow to upload 
 - Description
 - Keyword will appened to description.
 - Variant list style about: Colors and prices, size
-![](https://github.com/dvcuong05/TeespringAutoUploader/blob/master/slide/variant%20and%20list%20setup.png)
-### 3.Teespring search keyword from mainkey:
+![](https://github.com/dvcuong05/Shopify-TeescapeAutoUploader/blob/master/slide/setup-step.png)
+![](https://github.com/dvcuong05/Shopify-TeescapeAutoUploader/blob/master/slide/setup-desc.png)
+### 3.Search keyword from mainkey:
 - The tool allow to put the main key for each t-shit for whole folder and then search on thesaurus.com to find out list similar keys.
 ![](https://github.com/dvcuong05/TeespringAutoUploader/blob/master/slide/keyword%20searching.png)
-### 4.Teespring scan all folder and upload automatically with setup information:
+### 4.Shopify Teescape scan all folder and upload automatically with setup information:
 - The tool allow to put the main key for each t-shit for whole folder and then search on thesaurus.com to find out list similar keys.
-![](https://github.com/dvcuong05/TeespringAutoUploader/blob/master/slide/uploading%20and%20launch%20campaign.png)
+![](https://github.com/dvcuong05/Shopify-TeescapeAutoUploader/blob/master/slide/uploading-step.png)
 ### 5.Sample result on the product page:
-![](https://github.com/dvcuong05/TeespringAutoUploader/blob/master/slide/result.png)
+![](https://github.com/dvcuong05/Shopify-TeescapeAutoUploader/blob/master/slide/result.png)
 
 # Contact for more information.
 - Developer contact: [David Do](mailto:dvcuong05@gmail.com), [Nam Vay](https://github.com/vpnocsen)
